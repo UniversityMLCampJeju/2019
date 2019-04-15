@@ -1,6 +1,6 @@
 ﻿# Asian University ML Camp Jeju 2019
 
-**July 21 ~ August 11, 2019**  
+**July 21 ~ August 11, 2019 (for 3 weeks at Jeju National University)**  
 
 ![aaa](/images/1528340503774.png)
 
