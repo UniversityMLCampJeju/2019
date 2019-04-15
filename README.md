@@ -1,6 +1,6 @@
 ﻿# Asian University ML Camp Jeju
 
-**July 22 ~ August 7, 2018**  
+**July 21 ~ August 11, 2019**  
 
 
 
