@@ -42,6 +42,7 @@ For the period, we will design, implement, and train a deep learning model for a
 - **Please use the application form for Asian University ML Camp and describe information as in detail as possible.**
 - CV that showcases your experiences about Machine Learning, Deep Learning, Python, TensorFlow, PyTorch, and etc.
 - Other supporting materials to show your expertise as many as possible
+- You can apply for the camp at the bottom of this web-page.
 
 ### Menor Recruitment
 
@@ -78,10 +79,11 @@ Located just off the coast of the Korean peninsula, Jeju Island is the largest v
 ### Timeline
 
 - May 31: budget planning and reservations
-- June 23: attendee’s application due 
-- **July 1: Selecting candidate(s) of participants by mentors (checking the quality of project and possibility of implementation)**   
-- July 4: Announcement of final attendees by committee 
-- July 15: Mentee-mentor meeting(online/offline) and fix 2-week schedule before joining
+- May 31: Application due 
+- **June 7: Announcement of candidate(s) of participants by mentors (checking the quality of project and possibility of implementation and review)**   
+- June 9 - July 3: Preliminary activities at their locations (updating the application from the review)
+- July 5: Evaluation and announcement of final attendees by committee 
+- July 6-20: Mentee-mentor meeting(online) and doing 2-week pre-activity before joining
 - **July 20, 21: Check-in** 
 - July 22: Camp starts with the intensive implementation 
 - August 1: Interim presentation
@@ -123,6 +125,6 @@ Located just off the coast of the Korean peninsula, Jeju Island is the largest v
 
 ### **Submit Your Application here!** 
 
-Please click on <u>**here(To be added soon!)**</u>  to apply for the camp! 
+Please click on <u>**here(To be added soon!)**</u>  to apply for the camp. 
 
 
