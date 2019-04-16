@@ -1,50 +1,51 @@
-﻿# Asian University ML Camp Jeju 2019
+﻿# Asian University ML Camp Jeju 2019 (UMLC2019)
 
-"Let's do it for the society."
+*"Let's get it into our society!*
 
-**July 21 ~ August 11, 2019 (for 3 weeks at Jeju National University, Korea)**  
+**July 21 ~ August 11, 2019 (for 3 weeks at Jeju National University, Jeju, Korea)**  
 
 ![aaa](/images/1528340503774.png)
 
-If you have interests in machine learning/deep learning, you should want to have a chance to implement non-trivial and decent applications for learning machine learning deeply. Here is a good news. We invite you to join the 17-day long Asian University Machine Learning Camp in Jeju 2018, where you can do that and have a fun and unforgettable memory with your friends from other universities. 
-For the period, we will design and train a deep learning model for a specific application using TensorFlow from start-to-finish with your mentor. We might have access to some more mentors/experts to help you to implement your idea. We hope you get the benefit of this wonderful opportunity.
+*If you have interests in machine learning or deep learning, you should want to have a chance to implement non-trivial and decent applications for learning it deeply. Here is a good news. We invite you to join the 21-day long 2nd University Machine Learning Camp in Jeju 2019(UMLC2019), where you can do what you want, and have a fun and unforgettable memory with your friends from all over the world. 
+For the period, we will design, implement, and train a deep learning model for a specific application using TensorFlow, PyTorch, and etc. from start-to-finish with your mentor. We might have access to some mentors/experts to help you to implement your idea. We hope you get the benefit of this wonderful opportunity in Jeju, the most beautiful island in Korea.*
 
-**All of you guys selected as attendees(mentors and mentees) will be provided with rooms and meals during the camp at Jeju National University. Round-trip airfare to Jeju Island (South Korea) will be covered fully for the mentors and up to 500USD will be supported to each mentee for flights. In addition to these benefits, participants will get valuable and practical experiences in the field of machine learning/deep learning. We look forward to your application!**
-(Information regarding schedule, program, and benefits are subject to change)
+*All of you guys selected as attendees(mentors and mentees) **will be provided with rooms and meals during the camp** at Jeju National University. Round-trip airfare to Jeju Island (South Korea) will be covered fully for the mentors, and each mentee will be supported up to 500USD for flights. In addition to these benefits, participants will get valuable and practical experiences in the field of machine learning/deep learning. We look forward to your application!*
+(Information regarding schedule, program, and benefits are subject to change.)
 
 ### Camp Overview
 
-- Date: July 22 through August 7, 2018 (17 days, check-in date: July 22)
-- Up to 15 mentees and some mentors will be invited.
+- Date: July 21 through August 11, 2019 (22 days, check-in date: July 21)
+- Up to 20 mentees and some mentors
 - Venue: Campus of Jeju National University, Jeju, South Korea 
 - Host: Jeju National Univ.
-- Supporter: Jeju Development Center, IIST (Subject to change)
-- Contacts: universitymlcampjeju@gmail.com, ycb@jejunu.ac.kr
+- Supporter: Jeju Development Center, IIST (to be added more)
+- Contacts: universitymlcampjeju@gmail.com
 
 ### Qualification
 
-- Asian Universities
-- No nationality, gender, age, and etc.
+- Students from universities
 - Undergraduate and/or graduate students 
-- **Must stay in Jeju Island from July 22 to August 7 (17 days).** 
-- Weekday camp programs from 10 AM to 6 PM and free time during the weekend 
-- Understanding of machine learning frameworks including TensorFlow or others, and the ability for implementation using programming languages
+- Some mentees from non-university organizations might be invited. 
+- No nationality, gender, age, and etc.
+- **Must stay in Jeju National University from July 21 to August 11 (22 days).** 
+- Weekday camp programs from 9:30 AM to 6 PM and excursion/party and free time over the weekend 
+- Understanding of machine learning frameworks and the ability for implementation using programming languages (Python and/or etc.)
 - Basic communication skills in English (All programs will be in English)
-- **Clear personal project description on what they want to develop in the camp**
-- Produce practical applications of machine learning and/or research results in, for example, Image classification, Chatbots, Auto Q&A, Spam detection, and etc.
-- **30% or more design/ implementation of your project should be done before joining the camp to make it during the short camp period.**
-- Project results will be shared together. 
+- **Clear personal project description on what they want to develop during the camp**
+- Produce practical machine learning applications for the society and/or research results in the areas of Image classification, Chatbots, Auto Q&A, Spam detection, and etc.
+- **40% or more design/ implementation of your project should be done before joining the camp to complete it during the short camp period.**
+- Project results will be open and shared together. 
 
 ### Application 
 
-- Your proposal for Asian University Machine Learning Camp Jeju 2018 Project
+- Your proposal for Asian University Machine Learning Camp Jeju 2019 Project
 - **Please use the application form for Asian University ML Camp and describe information as in detail as possible.**
-- CV that showcases your experience about deep learning, Python, and TensorFlow
-- Other supporting materials to show your expertise
+- CV that showcases your experiences about Machine Learning, Deep Learning, Python, TensorFlow, PyTorch, and etc.
+- Other supporting materials to show your expertise as many as possible
 
 ### Menor Recruitment
 
-If you’re an expert in the field and interested in sharing your experiences and knowledge in the camp, please contact us at [ycb@jejunu.ac.kr](mailto:ycb@jejunu.ac.kr). You will serve as a personal mentor to 1-2 participants, holding 2-3 online/offline meetings a week to help them successfully complete their projects. While it is possible for you to provide online-only mentoring, you can visit Jeju Island to meet your mentees in person. We will provide round-trip airfare to Jeju Island and up to five (5) days of room and board.
+If you’re an expert in the field and interested in sharing your experiences and knowledge in the camp, please contact us at [universitymlcampjeju@gmail.com](mailto:universitymlcampjeju@gmail.com). You will serve as a personal mentor to 1-2 participants, holding 2-3 online/offline meetings a week to help them successfully complete their projects. While it is possible for you to provide online-only mentoring, you can visit Jeju Island to meet your mentees in person. We will provide round-trip airfare to Jeju Island and up to five (5) days of room and board.
 
 ### Organizing Committee
 
@@ -52,12 +53,10 @@ If you’re an expert in the field and interested in sharing your experiences an
 - Jungheong Jin, Jeju Development Center, Korea
 - Lap Nguyen Trung, Hoasen University, Vietnam
 - Bobby D. Gerardo, West Visayas State University, Philippines
-- Tokuro Matsuo, Advanced Institute of Industrial Technology, Japan
 - Debnath Bhattacharyya, Vignan’s Institute of Information Technology, India
 - Chan Yeob Yeun, Khalifa University, UAE
 - Kiyota Hashimoto, Prince of Songkla University, Thailand
 - Chi-Man Pun,  University of Macau, China
-- Satoshi Takahashi, The University of Electronic-Communications, Japan
 
 ### Hosted by
 
@@ -69,8 +68,8 @@ If you’re an expert in the field and interested in sharing your experiences an
 ### Camp Teams
 
 - 5-10 local & remote mentors: daily on/off-line meetings
-- 15 attendees from Asian countries
-- A few number of speakers  (subject to change) 
+- 15 attendees from other countries
+- A few number of speakers  
 
 ### Venue (Jeju Island, Korea)
 
@@ -83,53 +82,47 @@ Located just off the coast of the Korean peninsula, Jeju Island is the largest v
 - **July 1: Selecting candidate(s) of participants by mentors (checking the quality of project and possibility of implementation)**   
 - July 4: Announcement of final attendees by committee 
 - July 15: Mentee-mentor meeting(online/offline) and fix 2-week schedule before joining
-- **July 21, 22: Check-in** 
-- July 23: Camp starts with the intensive implementation 
-- August 6: Final presentation
-- August 7: Check-out
+- **July 20, 21: Check-in** 
+- July 22: Camp starts with the intensive implementation 
+- August 1: Interim presentation
+- August 10: Final presentation
+- August 11: Check-out
 
 ### Camp Schedule
 
 | Sunday                                                       | Monday                                                       | Tuesday                                                      | Wednesday                                                    | Thursday                                                     | Friday                                                       | Saturday                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 7/22                                                         | 7/23                                                         | 7/24                                                         | 7/25                                                         | 7/26                                                         | 7/27                                                         | 7/28                                                         |
-| check-in   (dormitory)                                       | ***.9:30-11:00 Setting environment @ coworking place in dorm building #5***  .11:00-12pm, personal project   .12pm-1pm, lunch .1pm-4pm,  project activity ***.4pm-5pm. Opening and orientation @2nd building of Liberal Arts(Hyun-seok-kwan, 1st floor)*** .    .5pm-6pm, project activity .6pm-7pm dinner .7pm-8pm, mentoring | .9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   ***<u>.10:00-12pm, 5 min speech, self/project introduction @ coworking place</u>*** .12pm-1pm, lunch 1pm-6pm, project activity     .7pm-8pm, mentoring | *<u>**.9am-12:00, Camp Semina (Blockchain, AI and security @JDC)**</u>*  .12pm-1pm, lunch 1pm-6pm, project    .6pm-7pm, dinner    .7pm-8pm, mentoring | .9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner    .7pm-8pm, mentoring | .9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity .6pm-7pm, dinner    .7pm-8pm, mentoring | .9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch . ***<u>1pm ~ Free time</u>*** |
-| 7/29                                                         | 7/30                                                         | 7/31                                                         | 8/1                                                          | 8/2                                                          | 8/3                                                          | 8/4                                                          |
-| ***<u>Excursion/party and getting   together(Seong-san-il-chul-bong, Wudo Island, Man-jang-gul Cave)</u>*** | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner    .7pm-8pm, mentoring | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner    .7pm-8pm, mentoring | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner    .7pm-8pm, mentoring | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner    .7pm-8pm, mentoring | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner    .7pm-8pm, mentoring | .9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch . ***<u>1pm ~ Free time</u>*** |
-| 8/5                                                          | 8/6                                                          | 8/7                                                          |                                                              |                                                              |                                                              |                                                              |
-| ***<u>Excursion/party and getting   together(TBA)</u>***     | ***<u>.10:00-12pm, Final presentation    .12pm-2pm,   Pizza time and let’s share our feelings!</u>*** | .check-out                                                   |                                                              |                                                              |                                                              |                                                              |
+| 7/21                                                         | 7/22                                                         | 7/23                                                         | 7/24                                                         | 7/25                                                         | 7/26                                                         | 7/27                                                         |
+| check-in   (dormitory)                                       | ***.9:30-11:00 Setting environment @ co-working place in dorm building #5***  .11:00-12pm, project activity   .12pm-1pm, lunch .1pm-4pm,  project activity ***.4pm-5pm. Opening and orientation @(TBA))*** .    .5pm-6pm, project activity .6pm-7pm dinner | .9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   ***<u>.10:00-12pm, 5 min speech, self/project introduction @ coworking place</u>*** .12pm-1pm, lunch 1pm-6pm, project activity | *<u>**.9am-12:00, Camp Semina (Blockchain, AI and security @JDC)**</u>*  .12pm-1pm, lunch 1pm-6pm, project    .6pm-7pm, dinner | .9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner | .9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity .6pm-7pm, dinner    .7pm-8pm, mentoring | .9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch . ***<u>1pm ~ Free time</u>*** |
+| 7/28                                                         | 7/29                                                         | 7/30                                                         | 7/31                                                         | 8/1                                                          | 8/2                                                          | 8/3                                                          |
+| ***<u>Excursion/party and getting   together(Seong-san-il-chul-bong, Wudo Island, Man-jang-gul Cave)</u>*** | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner | .9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch . ***<u>1pm ~ Free time</u>*** |
+| 8/4                                                          | 8/5                                                          | 8/6                                                          | 8/7                                                          | 8/8                                                          | 8/9                                                          | 8/10, 8/11                                                   |
+| ***<u>Excursion/party and getting   together(TBA)</u>***     | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner | 9:30am-10:00, Posting research memo (what I did yesterday & what to do today)   .10:00-12pm, project   .12pm-1pm, lunch 1pm-6pm, project activity   .6pm-7pm, dinner | ***<u>.10:00-12pm, Final presentation    .12pm-2pm,   Pizza time and let’s share our feelings!, Check-out</u>*** |
 
 ### Benefits for students
 
-- Enjoy Jeju Island during the summer season
-- Meet our friends from various Asian Universities
-- Find the chance to enhance your skill in TF/DL 
-- Implement some practical applications/results using machine learning frameworks
-- **Stay in Jeju for 17 days (accommodation and meals are supported)** + various activities on weekends as you like
+- Having fun together!
+- Enjoy Jeju Island during the summer season.
+- Meet our friends from various universities from all over the world.
+- Find the chance to enhance your skill in Deep Learning.
+- Implement some practical applications/results using deep learning frameworks.
+- **Stay in Jeju for 22 days (accommodation and meals are supported)** + various activities on weekends as you like
 - **The flight fare will be covered for each mentee (up to 500USD).** 
 
 ### Co-Events
 
-- **Global Deep Learning Camp will be held in the same place for 1 month.** 
-- You all might join some open seminar of the global camp(TBA). 
-- **Sharing knowledge with the guys attending the global DL camp** 
+- Some open special seminar(TBA). 
+- **Sharing knowledge with the guys from industries** 
 - Visiting local places & having fun together
 
-### Potential Collaborations with Locals (subject to change)
+### Potential Collaborations with locals (subject to change)
 
 - Invite students from Jeju National University
 - Meetings with Jeju Science High school
 - Other IT-related companies 
 
-### Application Form 2
+### **Submit Your Application here!** 
 
-Please click on <u>**<a href="Application_Form_new.docx">here</a>**</u>  to download the application form and submit to universitymlcampjeju@gmail.com.
-
-
-
-
-
-
-
+Please click on <u>**here(To be added soon!)**</u>  to apply for the camp! 
 
 
