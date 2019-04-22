@@ -58,6 +58,7 @@ If you’re an expert in the field and interested in sharing your experiences an
 - Chan Yeob Yeun, Khalifa University, UAE
 - Kiyota Hashimoto, Prince of Songkla University, Thailand
 - Chi-Man Pun,  University of Macau, China
+- Arslan Shaukat, National University of Sciences and Technology, Pakistan
 
 ### Hosted by
 
