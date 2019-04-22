@@ -1,4 +1,4 @@
-**University ML Camp Jeju 2019 (UMLC2019)**
+#University ML Camp Jeju 2019 (UMLC2019)
 
 *"Let's get it into our society!*
 
