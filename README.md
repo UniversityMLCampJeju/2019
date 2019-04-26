@@ -50,8 +50,6 @@ If you’re an expert in the field and interested in sharing your experiences an
 
 ### Organizing Committee
 
-- Yungcheol Byun, Jeju National University, Korea
-- Jungheong Jin, Jeju Development Center, Korea
 - Lap Nguyen Trung, Hoasen University, Vietnam
 - Bobby D. Gerardo, West Visayas State University, Philippines
 - Debnath Bhattacharyya, Vignan’s Institute of Information Technology, India
@@ -59,6 +57,11 @@ If you’re an expert in the field and interested in sharing your experiences an
 - Kiyota Hashimoto, Prince of Songkla University, Thailand
 - Chi-Man Pun,  University of Macau, China
 - Arslan Shaukat, National University of Sciences and Technology, Pakistan
+- Jeju Development Center, Korea
+- Eunsan Ko, Project 8, Korea
+- Joonho Lee, JLabs, Korea
+- Hojoon Lee, Paullab, Korea
+- Yungcheol Byun, Jeju National University, Korea
 
 ### Hosted by
 
@@ -69,26 +72,26 @@ If you’re an expert in the field and interested in sharing your experiences an
 
 ### Camp Teams
 
-- 5-10 local & remote mentors: daily on/off-line meetings
-- 15 attendees from other countries
+- Around 10 mentors: daily on/off-line meetings
+- Around 20 attendees(mentees) from other countries
 - A few number of speakers  
 
-### Venue (Jeju Island, Korea)
+### Venue (Jeju National University, Jeju Island, Korea)
 
 Located just off the coast of the Korean peninsula, Jeju Island is the largest volcanic island in Korea. Also known as Asia's Hawaii, the island is rife with beautiful sceneries and getaway resorts. Jeju boasts several natural treasures including Mount Halla, the country's highest peak, Trail Olle that winds around the rocky coastline, and Sunrise Peak, a dormant volcano ideal for catching sunrises and sunsets. You will be able to fully experience the island's charm for as long as a month stay without a visa. For more information, please visit at: http://www.visitjeju.net/en/index.jto. 
 
 ### Timeline
 
-- May 31: budget planning and reservations
-- May 31: Application due 
+- May 10: budget planning and reservations
+- **May 31: Application due** 
 - **June 7: Announcement of candidate(s) of participants by mentors (checking the quality of project and possibility of implementation and review)**   
 - June 9 - July 3: Preliminary activities at their locations (updating the application from the review)
 - July 5: Evaluation and announcement of final attendees by committee 
-- July 6-20: Mentee-mentor meeting(online) and doing 2-week pre-activity before joining
+- July 6-20: Mentee-mentor meeting(online) and 2-week pre-activity before joining
 - **July 20, 21: Check-in** 
-- July 22: Camp starts with the intensive implementation 
+- **July 22: Camp starts** with the intensive implementation 
 - August 1: Interim presentation
-- August 10: Final presentation
+- **August 10: Final presentation**
 - August 11: Check-out
 
 ### Camp Schedule
