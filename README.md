@@ -59,7 +59,7 @@ If you’re an expert in the field and interested in sharing your experiences an
 - Arslan Shaukat, National University of Sciences and Technology, Pakistan
 - Jeju Development Center, Korea
 - Eunsan Ko, Project 8, Korea
-- Joonho Lee, JLabs, Korea
+- Junho Lee, J.AI Labs, Korea
 - Hojoon Lee, Paullab, Korea
 - Yungcheol Byun, Jeju National University, Korea
 
