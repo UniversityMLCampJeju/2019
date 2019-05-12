@@ -130,10 +130,6 @@ Located just off the coast of the Korean peninsula, Jeju Island is the largest v
 
 ### **Submit Your Application here!** 
 
-* <u>**<a href="Application_Form_2019" download>Click to Download</a>**</u> an application form.
-* Click on <u>**here**</u> to submit your application.
-* [Duck Duck Go](http://duckduckgo.com)
-* <a href="myFile.js" download>Click to Download</a>
-* 
-
+* <u>**<a href="Application_Form_2019" download>Click to download</a>**</u> an application form.
+* Click on [here](http://duckduckgo.com) to submit your application. 
 
