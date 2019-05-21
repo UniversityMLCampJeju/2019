@@ -2,7 +2,7 @@
 
 *"Let's get it into our society!*
 
-**July 14 ~ August 3, 2019 (for 3 weeks at Jeju National University, Jeju, Korea)**  
+### July 14 ~ August 3, 2019 (for 3 weeks at Jeju National University, Jeju, Korea)
 
 ![Beautiful Jeju](jeju.png)
 
@@ -68,6 +68,7 @@ If you’re an expert in the field and interested in sharing your experiences an
 
 - Jeju National University
 - Jeju Development Center (JDC) 
+- Project &infin;
 - Institute of Information Science & Technology
 - Research Institute of Advanced Technology
 
