@@ -85,14 +85,12 @@ Located just off the coast of the Korean peninsula, Jeju Island is the largest v
 ### Timeline
 
 - May 10: budget planning and reservations
-- **May 31: Application due** 
-- **June 7: Announcement of the candidate(s) of participants by mentors (checking the quality of project and possibility of implementation and review)**   
-- June 9 - July 3: Preliminary activities at their locations (updating the application from the review)
-- July 5: Evaluation and announcement of final attendees by committee 
-- July 6-20: Mentee-mentor meeting(online) and 2-week pre-activity before joining
+- **June 10: Application due** (Extended)
+- **June 15: Announcement of the participants by mentors (checking the importance of the project and possibility of implementation)**   
+- June 16 - July 12: Preliminary activities at their locations (updating the application from the review). Mentee-mentor meeting(on-line) and 4-week pre-activities before joining
 - **July 13, 14: Check-in** (Dormitory at Jeju National University, Jeju, Korea)
 - **July 15: Camp starts** with the intensive implementation 
-- July 24: Interim presentation
+- July 24: Interim presentation 
 - **August 2: Final presentation**
 - August 3: Check-out
 
